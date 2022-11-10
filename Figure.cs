@@ -2,5 +2,5 @@
 public abstract class Figure
 {
     protected double area;
-    public abstract double Area { get; init; }
+    public abstract double Area { get; }
 }
