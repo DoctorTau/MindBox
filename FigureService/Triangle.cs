@@ -11,6 +11,11 @@ public class Triangle : Figure
     }
     public Triangle(double sideA, double sideB, double sideC)
     {
+        if (sideA < 0 || sideB < 0 || sideC < 0)
+            throw new FigureException("Side can't be less than 0");
+        if (sideA + sideB <= sideC || sideA + sideC <= sideB || sideB + sideC <= sideA)
+            throw new FigureException("The sum of any two sides must be greater than the third side");
+
         this.sideA = sideA;
         this.sideB = sideB;
         this.sideC = sideC;
