@@ -1,5 +1,6 @@
 ﻿namespace MindBox;
 public abstract class Figure
 {
-    public abstract double getArea();
+    protected double area;
+    public abstract double Area { get; init; }
 }
