@@ -1,5 +1,3 @@
-using System;
-
 namespace MindBox
 {
     public class Round : Figure
