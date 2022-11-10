@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drtta\\Programming\\MindBox\\MindBox.csproj": {}
+    "C:\\Users\\drtta\\Programming\\MindBox\\FigureServiceTest\\FigureServiceTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drtta\\Programming\\MindBox\\MindBox.csproj": {
+    "C:\\Users\\drtta\\Programming\\MindBox\\FigureServiceTest\\FigureServiceTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drtta\\Programming\\MindBox\\MindBox.csproj",
-        "projectName": "MindBox",
-        "projectPath": "C:\\Users\\drtta\\Programming\\MindBox\\MindBox.csproj",
+        "projectUniqueName": "C:\\Users\\drtta\\Programming\\MindBox\\FigureServiceTest\\FigureServiceTest.csproj",
+        "projectName": "FigureServiceTest",
+        "projectPath": "C:\\Users\\drtta\\Programming\\MindBox\\FigureServiceTest\\FigureServiceTest.csproj",
         "packagesPath": "C:\\Users\\drtta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drtta\\Programming\\MindBox\\obj\\",
+        "outputPath": "C:\\Users\\drtta\\Programming\\MindBox\\FigureServiceTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\drtta\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
