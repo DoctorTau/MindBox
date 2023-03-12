@@ -1,5 +1,8 @@
 namespace MindBox;
 
+/// <summary>
+/// This class represents an exception that is thrown in case of errors related to Figures.
+/// </summary>
 [System.Serializable]
 public class FigureException : System.Exception
 {

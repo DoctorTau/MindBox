@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tdRCykOklGvYbK5Kuhk4jr54Q9VNZAEl9RpSi4pn/bVIbQIZ5cI/2aQHXpD0C/0hJSsvyvOC6/b6n205Au7UAQ==",
+  "dgSpecHash": "jbljyiST+DZirn3l3lCE4/cOi/odNNWg4DZyFU4zHWzZLMS9FTUn6euEy+RTSi7s9Z3QFK7JI9EwGNgxBf/cbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\drtta\\Programming\\MindBox\\FigureServiceTest\\FigureServiceTest.csproj",
   "expectedPackageFiles": [
@@ -91,7 +91,10 @@
     "C:\\Users\\drtta\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\drtta\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\drtta\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\drtta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\drtta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\drtta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\drtta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\drtta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
   ],
   "logs": []
 }
